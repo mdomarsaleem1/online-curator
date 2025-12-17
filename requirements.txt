@@ -22,6 +22,18 @@ requests>=2.31.0
 beautifulsoup4>=4.12.0
 feedparser>=6.0.0
 httpx>=0.25.0
+youtube-transcript-api>=0.6.0
+
+# Knowledge graph visualization
+pyvis>=0.3.0
+networkx>=3.0
+
+# Email digest
+schedule>=1.2.0
+
+# Gmail API (optional - for OAuth-based email)
+google-auth-oauthlib>=1.0.0
+google-api-python-client>=2.0.0
 
 # Utilities
 python-dotenv>=1.0.0
